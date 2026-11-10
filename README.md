@@ -6,13 +6,13 @@
 ² Centre for Computational Science and Mathematical Modelling, Coventry University, Coventry, United Kingdom  
 ³ Centre for Future Transport and Cities, Coventry University, Coventry, United Kingdom  
 
-*Presented at the 2026 9th International Conference on Vocational Education and Electrical Engineering (ICVEE 2026)*
+*Published in the 2026 9th International Conference on Vocational Education and Electrical Engineering (ICVEE 2026)*
 
 ## Status
 
-The paper was presented at [ICVEE 2026](https://icvee.conference.unesa.ac.id/) (17–18 September 2026, Surabaya, Indonesia). Official proceedings publication in IEEE Xplore is currently pending.
+Published in the [2026 9th International Conference on Vocational Education and Electrical Engineering (ICVEE 2026) proceedings](https://ieeexplore.ieee.org/document/11766385) by IEEE. The paper was presented at ICVEE 2026 (17–18 September 2026, Surabaya, Indonesia).
 
-The source code will be made available here upon publication of the proceedings.
+The source code will be made available here when released.
 
 ## Abstract
 
