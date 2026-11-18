@@ -1,4 +1,5 @@
-#+title: Readme
+#+title: README
+#+description: This repository contains all files related to my conference paper
 
 ** Data preparation:
 + You can download the dataset from this URL: https://data.mendeley.com/datasets/m7ndn58sv6/1
