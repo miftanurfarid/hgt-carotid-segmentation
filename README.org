@@ -25,3 +25,5 @@ data
 + Activate the Python environment: ~source .venv/bin/activate~
 + Install the required packages: ~uv pip install -r requirements.txt~
 
+** How to Run the Python Scripts and Notebooks:
+1. This is step one.
