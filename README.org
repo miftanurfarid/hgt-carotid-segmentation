@@ -4,6 +4,15 @@
 + You can download the dataset from this URL: https://data.mendeley.com/datasets/m7ndn58sv6/1
 + Extract the dataset to path: =hgt-carotid-segmentation/data=
 + Your data path should look like this:
+ #+RESULTS:
+ #+begin_example
+ .
+ ├── notes
+ │   └── example.org
+ └── references
+     └── paper.pdf
+ #+end_example
+
   = data=
   =└──  DATASET_CUBS_tech=
   =    ├──  CF=
