@@ -26,11 +26,26 @@ data
 #+begin_src sh
 git clone git@github.com:miftanurfarid/hgt-carotid-segmentation.git
 #+end_src
-+ Go to the cloned repository folder: ~cd ~/Documents/hgt-carotid-segmentation~
-+ Install a specific Python version: ~uv python install 3.13.18~
-+ Create a Python environment using that version:  ~uv venv --python 3.13.18 .venv~
-+ Activate the Python environment: ~source .venv/bin/activate~
-+ Install the required packages: ~uv pip install -r requirements.txt~
++ Go to the cloned repository folder:
+#+begin_src sh
+cd ~/Documents/hgt-carotid-segmentation
+#+end_src
++ Install a specific Python version:
+#+begin_src sh
+uv python install 3.13.18
+#+end_src
++ Create a Python environment using that version:
+#+begin_src sh
+uv venv --python 3.13.18 .venv
+#+end_src
++ Activate the Python environment:
+#+begin_src sh
+source .venv/bin/activate
+#+end_src
++ Install the required packages:
+#+begin_src sh
+uv pip install -r requirements.txt
+#+end_src
 
 ** How to Run the Python Scripts and Notebooks:
 1. This is step one.
