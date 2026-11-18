@@ -4,13 +4,13 @@
 + You can download the dataset from this URL: https://data.mendeley.com/datasets/m7ndn58sv6/1
 + Extract the dataset to path: =hgt-carotid-segmentation/data=
 + Your data path should look like this:
-   data
-  └──  DATASET_CUBS_tech
-      ├──  CF
-      ├──  Folds
-      ├──  images
-      ├──  LIMA-Profiles
-      └──  LIMA-Profiles-interpolated
+  = data=
+  =└──  DATASET_CUBS_tech=
+  =    ├──  CF=
+  =    ├──  Folds=
+  =    ├──  images=
+  =    ├──  LIMA-Profiles=
+  =    └──  LIMA-Profiles-interpolated=
 
 * Python and dependencies setup:
 + Clone this repository: ~git clone git@github.com:miftanurfarid/hgt-carotid-segmentation.git~
