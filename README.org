@@ -3,10 +3,7 @@
 
 ** Data preparation:
 + You can download the dataset from this URL: https://data.mendeley.com/datasets/m7ndn58sv6/1
-+ Extract the dataset to path:
-#+begin_src sh
-hgt-carotid-segmentation/data
-#+end_src
++ Extract the dataset to path: =hgt-carotid-segmentation/data=
 
 + Your data path should look like this:
 #+begin_src sh
