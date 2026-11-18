@@ -3,7 +3,11 @@
 
 ** Data preparation:
 + You can download the dataset from this URL: https://data.mendeley.com/datasets/m7ndn58sv6/1
-+ Extract the dataset to path: =hgt-carotid-segmentation/data=
++ Extract the dataset to path:
+#+begin_src sh
+hgt-carotid-segmentation/data
+#+end_src
+
 + Your data path should look like this:
 #+begin_src sh
 data
@@ -18,7 +22,10 @@ data
 #+end_src
 
 ** Python and dependencies setup:
-+ Clone this repository: ~git clone git@github.com:miftanurfarid/hgt-carotid-segmentation.git~
++ Clone this repository:
+#+begin_src sh
+git clone git@github.com:miftanurfarid/hgt-carotid-segmentation.git
+#+end_src
 + Go to the cloned repository folder: ~cd ~/Documents/hgt-carotid-segmentation~
 + Install a specific Python version: ~uv python install 3.13.18~
 + Create a Python environment using that version:  ~uv venv --python 3.13.18 .venv~
