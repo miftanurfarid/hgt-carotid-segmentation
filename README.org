@@ -5,9 +5,7 @@
 + Extract the dataset to path: =hgt-carotid-segmentation/data=
 + Your data path should look like this:
 #+begin_src sh
-/home/mnf/Documents/hgt-carotid-segmentation/data
-├── __MACOSX
-│   └── DATASET_CUBS_tech
+data
 └── DATASET_CUBS_tech
     ├── CF
     ├── CUBS-tech-SNR-geometry.xlsx
