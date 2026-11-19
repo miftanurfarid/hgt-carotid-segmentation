@@ -3,9 +3,9 @@
 
 Mifta Nur Farid¹,² · Tri Arief Sardjono¹ · Hendra Kusuma¹ · Thomas Statheros³ · Vasile Palade²
 
-¹ Department of Electrical Engineering, Institut Teknologi Sepuluh Nopember, Surabaya, Indonesia\\
-² Centre for Computational Science and Mathematical Modelling, Coventry University, Coventry, United Kingdom\\
-³ Centre for Future Transport and Cities, Coventry University, Coventry, United Kingdom\\
+¹ Department of Electrical Engineering, Institut Teknologi Sepuluh Nopember, Surabaya, Indonesia \\
+² Centre for Computational Science and Mathematical Modelling, Coventry University, Coventry, United Kingdom \\
+³ Centre for Future Transport and Cities, Coventry University, Coventry, United Kingdom \\
 
 /Published in the 2026 9th International Conference on Vocational Education and Electrical Engineering (ICVEE 2026)/
 
