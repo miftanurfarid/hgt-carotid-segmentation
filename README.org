@@ -1,13 +1,13 @@
 #+title: Hybrid Ground Truth from Multi-Algorithm Consensus for Annotation-Efficient Carotid Ultrasound Segmentation
 #+description: Code and data preparation for the ICVEE 2026 conference paper
 
-Mifta Nur Farid¹,² · Tri Arief Sardjono¹ · Hendra Kusuma¹ · Thomas Statheros³ · Vasile Palade²
+*Mifta Nur Farid*¹,² *Tri Arief Sardjono*¹, *Hendra Kusuma*¹, *Thomas Statheros*³, *Vasile Palade*²
 
-¹ Department of Electrical Engineering, Institut Teknologi Sepuluh Nopember, Surabaya, Indonesia
+¹ /Department of Electrical Engineering, Institut Teknologi Sepuluh Nopember, Surabaya, Indonesia/
 
-² Centre for Computational Science and Mathematical Modelling, Coventry University, Coventry, United Kingdom
+² /Centre for Computational Science and Mathematical Modelling, Coventry University, Coventry, United Kingdom/
 
-³ Centre for Future Transport and Cities, Coventry University, Coventry, United Kingdom
+³ /Centre for Future Transport and Cities, Coventry University, Coventry, United Kingdom/
 
 /Published in the 2026 9th International Conference on Vocational Education and Electrical Engineering (ICVEE 2026)/
 
